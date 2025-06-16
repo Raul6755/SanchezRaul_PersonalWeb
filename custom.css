@@ -1,7 +1,8 @@
-/* ----------------------------------------------------------------
-	Custom CSS
-
-	Add all your Custom Styled CSS here for New Styles or
-	Overwriting Default Theme Styles for Better Handling Updates
------------------------------------------------------------------*/
-
+@font-face{
+	font-family: fuente_personalizada;
+	src: url("fonts/EduNSWACTHandPre-VariableFont_wght.woff");
+	
+}
+body{
+	font-family: fuente_personalizada;
+}
